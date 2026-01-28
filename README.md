@@ -33,7 +33,7 @@ Dataset is included in this repository.
 - Slight revenue peaks occur in late-year months.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](AirBnB Analytics.png)
+![Dashboard Screenshot](AirBnB%20Analytics.png)
 
 ## 🔗 Live Dashboard
 Tableau Public Link:  
